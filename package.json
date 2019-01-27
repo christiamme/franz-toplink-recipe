@@ -1,0 +1,13 @@
+{
+  "id": "TopLink",
+  "name": "TopLink",
+  "version": "1.0.0",
+  "description": "TopLink",
+  "main": "index.js",
+  "author": "Christiam Mendoza <mail@christiam.me>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://toplink.weforum.org/home",
+    "hasNotificationSound": true
+  }
+}
